@@ -32,7 +32,9 @@
 	<img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg alt=css3 width="60" height="60"/> 
 	<img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg alt=bootstrap width="60" height="60"/>
   <img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg alt=javascript width="60" height="60"/>
-	<img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg alt=mysql width="60" height="60"/>  
+	<img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg alt=mysql width="60" height="60"/>
+	<img style="margin: auto;" src=https://github.com/gulshanbaraik01/gulshanbaraik01/blob/master/chartjs.svg alt=chartjs width="60" height="60"/>
+	<img style="margin: auto;" src=https://github.com/gulshanbaraik01/gulshanbaraik01/blob/master/highcharts.svg alt=highcharts width="60" height="60"/>
 	<img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/php/php-original.svg alt=php width="60" height="60"/> 
 	<img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg alt=react width="60" height="60"/>
   <img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/django/django-original.svg alt=django width="60" height="60"/>

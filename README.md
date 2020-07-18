@@ -25,4 +25,4 @@
 ##
 ### Connect with me:
 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/gulshan-baraik-667120a4/) [<img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram.png" width="3.5%"/>](https://medium.com/@gbrnc28) [<img src="https://img.icons8.com/ios-filled/50/000000/instagram.png" width="3.5%"/>](https://www.instagram.com/_gul_sh_an__/)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/gulshan-baraik-667120a4/) [<img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram.png" width="3.5%"/>](https://medium.com/@gbrnc28) [<img src="https://img.icons8.com/color/48/000000/instagram.png" width="3.5%"/>](https://www.instagram.com/_gul_sh_an__/)

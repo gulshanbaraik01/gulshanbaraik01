@@ -4,7 +4,6 @@
 **gulshanbaraik01/gulshanbaraik01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 ## I am Gulshan Baraik <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
 ### A Software Developer, An Open Source Contributor & A Technical Content Writer.
-<p> <img src=https://komarev.com/ghpvc/?username=gulshanbaraik01 alt=gulshanbaraik01/></p>
 
 <img align="right" src="https://github.com/gulshanbaraik01/gulshanbaraik01/blob/master/coding.gif" width="50%"/>
 

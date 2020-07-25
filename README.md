@@ -22,38 +22,38 @@
 
 <h4>Programming Languages: </h4>
 <p>
- <img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/python/python-original.svg alt=python width="60" height="60"/>
- <img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg alt=cplusplus width="60" height="60"/>
+ <img style="margin: auto;" src=https://img.icons8.com/color/48/000000/python.png alt=python width="60" height="60"/>
+ <img style="margin: auto;" src=https://img.icons8.com/color/48/000000/c-plus-plus.png alt=cplusplus width="60" height="60"/>
 </p>
 
 <h4>Skills and Tools: </h4>
 <p>
-	<img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg alt=html5 width="60" height="60"/> 
-	<img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg alt=css3 width="60" height="60"/> 
-	<img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg alt=bootstrap width="60" height="60"/>
-  	<img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg alt=javascript width="60" height="60"/>
-	<img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg alt=mysql width="60" height="60"/>
+	<img style="margin: auto;" src=https://img.icons8.com/ios-filled/50/000000/html.png alt=html5 width="60" height="60"/> 
+	<img style="margin: auto;" src=https://img.icons8.com/ios-filled/50/000000/css.png alt=css3 width="60" height="60"/> 
+	<img style="margin: auto;" src=https://img.icons8.com/color/48/000000/bootstrap.png alt=bootstrap width="60" height="60"/>
+  	<img style="margin: auto;" src=https://img.icons8.com/ios-filled/50/000000/js.png alt=javascript width="60" height="60"/>
+	<img style="margin: auto;" src=https://img.icons8.com/ios-filled/50/000000/mysql.png alt=mysql width="60" height="60"/>
 	<img style="margin: auto;" src=https://github.com/gulshanbaraik01/gulshanbaraik01/blob/master/chartjs.svg alt=chartjs width="60" height="60"/>
 	<img style="margin: auto;" src=https://github.com/gulshanbaraik01/gulshanbaraik01/blob/master/highcharts.svg alt=highcharts width="60" height="60"/>
-	<img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/php/php-original.svg alt=php width="60" height="60"/> 
-	<img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg alt=react width="60" height="60"/>
-  	<img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/django/django-original.svg alt=django width="60" height="60"/>
+	<img style="margin: auto;" src=https://img.icons8.com/ios-filled/50/000000/php.png alt=php width="60" height="60"/> 
+	<img style="margin: auto;" src=https://github.com/gulshanbaraik01/gulshanbaraik01/blob/master/react.png alt=react width="60" height="60"/>
+  	<img style="margin: auto;" src=https://img.icons8.com/color/48/000000/django.png alt=django width="60" height="60"/>
 	<img style="margin: auto;" src=https://github.com/gulshanbaraik01/gulshanbaraik01/blob/master/flask.png alt=flask width="60" height="60"/>
-  	<img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/android/android-original.svg alt=android width="60" height="60"/>
-  	<img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/github/github-original.svg alt=github width="60" height="60"/>
-  	<img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/heroku/heroku-original.svg alt=heroku width="60" height="60"/>
+  	<img style="margin: auto;" src=https://img.icons8.com/ios-filled/50/000000/android.png alt=android width="60" height="60"/>
+  	<img style="margin: auto;" src=https://img.icons8.com/ios-filled/50/000000/github.png alt=github width="60" height="60"/>
+  	<img style="margin: auto;" src=https://img.icons8.com/color/48/000000/heroku.png alt=heroku width="60" height="60"/>
  
 </p>
 
 <h4>Desktop Environment: </h4>
 <p>
- <img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/pycharm/pycharm-original.svg alt=pycharm width="60" height="60"/>
- <img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg alt=vs width="60" height="60"/>
-  <img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/intellij/intellij-plain.svg alt=intellij width="60" height="60"/>
- <img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/atom/atom-original.svg alt=atom width="60" height="60"/>
-	<img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/linux/linux-original.svg alt=linux width="60" height="60"/>
- <img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/ubuntu/ubuntu-plain-wordmark.svg alt=ubuntu width="60" height="60"/>
- <img style="margin: auto;" src=https://konpa.github.io/devicon/devicon.git/icons/windows8/windows8-original.svg alt=windows8 width="60" height="60"/>
+ <img style="margin: auto;" src=https://img.icons8.com/color/48/000000/pycharm.png alt=pycharm width="60" height="60"/>
+ <img style="margin: auto;" src=https://img.icons8.com/color/48/000000/visual-studio.png alt=vs width="60" height="60"/>
+ <img style="margin: auto;" src=https://img.icons8.com/color/48/000000/intellij-idea.png alt=intellij width="60" height="60"/>
+ <img style="margin: auto;" src=https://img.icons8.com/color/48/000000/atom-editor.png alt=atom width="60" height="60"/>
+ <img style="margin: auto;" src=https://img.icons8.com/color/48/000000/linux.png alt=linux width="60" height="60"/>
+ <img style="margin: auto;" src=https://img.icons8.com/color/48/000000/ubuntu.png alt=ubuntu width="60" height="60"/>
+ <img style="margin: auto;" src=https://img.icons8.com/color/48/000000/windows-10.png alt=windows8 width="60" height="60"/>
 </p>
 
 <br>

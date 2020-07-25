@@ -36,7 +36,7 @@
 	<img style="margin: auto;" src=https://github.com/gulshanbaraik01/gulshanbaraik01/blob/master/chartjs.svg alt=chartjs width="60" height="60"/>
 	<img style="margin: auto;" src=https://github.com/gulshanbaraik01/gulshanbaraik01/blob/master/highcharts.svg alt=highcharts width="60" height="60"/>
 	<img style="margin: auto;" src=https://img.icons8.com/ios-filled/50/000000/php.png alt=php width="60" height="60"/> 
-	<img style="margin: auto;" src=https://github.com/gulshanbaraik01/gulshanbaraik01/blob/master/react.png alt=react width="60" height="60"/>
+	<img style="margin: auto;" src=https://img.icons8.com/dusk/64/000000/react.png alt=react width="60" height="60"/>
   	<img style="margin: auto;" src=https://img.icons8.com/color/48/000000/django.png alt=django width="60" height="60"/>
 	<img style="margin: auto;" src=https://github.com/gulshanbaraik01/gulshanbaraik01/blob/master/flask.png alt=flask width="60" height="60"/>
   	<img style="margin: auto;" src=https://img.icons8.com/ios-filled/50/000000/android.png alt=android width="60" height="60"/>

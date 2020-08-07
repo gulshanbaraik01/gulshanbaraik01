@@ -13,6 +13,7 @@
 - ✍🏻 I’m a Content Writer at [Medium](https://medium.com/@gbrnc28)
 - 🤖 Creater of Web Application [@CoronaTracker LIVE](https://coronatrackerlive.herokuapp.com/) which track Live Stats of COVID-19
 - 🤖 Creater of Android Application [@COVID LIVE](https://drive.google.com/file/d/15l8NDC54-ZbB_9KG87DVNHCM6CjQc7K5/view?usp=sharing) which track Live Stats of COVID-19 (micro application for CoronaTracker LIVE)
+- ✨ Competitions Contributor at [Kaggle](https://www.kaggle.com/gulshanb)
 - 🌱 I’m currently learning Data Science using Python at GreatLearning
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about Django / Python

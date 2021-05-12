@@ -8,7 +8,7 @@
 <img align="right" src="https://github.com/gulshanbaraik01/gulshanbaraik01/blob/master/coding.gif" width="50%"/>
 
 - 💻 Former Software Developer Intern [@webdatatechnologies](https://www.webdatatechnologies.in/)
-- ✍🏻 I’m a Technical Content Writer Intern at [GeeksForGeeks](https://auth.geeksforgeeks.org/user/night_fury1/articles)
+- ✍🏻 Former Technical Content Writer Intern at [GeeksForGeeks](https://auth.geeksforgeeks.org/user/night_fury1/articles)
 - 🤔 I’m looking for full-time opportunity in fields of SDE / Full-Stack / Web Developement / Android.
 - ✍🏻 I’m a Content Writer at [Medium](https://medium.com/@gbrnc28)
 - 👯 I'm a Participant at Contributer's Hack, 2020 [HakinCodes](https://hakincodes.tech/)

@@ -7,6 +7,7 @@
 
 <img align="right" src="https://github.com/gulshanbaraik01/gulshanbaraik01/blob/master/coding.gif" width="50%"/>
 
+- 💻 Software Engineer [@goavega](https://www.goavega.com/)
 - 💻 Former Software Developer Intern [@webdatatechnologies](https://www.webdatatechnologies.in/)
 - ✍🏻 Former Technical Content Writer Intern at [GeeksForGeeks](https://auth.geeksforgeeks.org/user/night_fury1/articles)
 - 🤔 I’m looking for full-time opportunity in fields of SDE / Full-Stack / Web Developement / Android.
